@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989434463430",
+    "firebase_url": "https://dominionjam.firebaseio.com",
+    "project_id": "dominionjam",
+    "storage_bucket": "dominionjam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989434463430:android:5d3c84083b66ce3aae43c7",
+        "android_client_info": {
+          "package_name": "com.nosleepsoftware.domion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989434463430-e3ms13cfgmib7ehrih4nb5938p3bsk7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRLE0giQ_Z0JS6xhCzoKbkcj9F8p4lCRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989434463430-e3ms13cfgmib7ehrih4nb5938p3bsk7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
