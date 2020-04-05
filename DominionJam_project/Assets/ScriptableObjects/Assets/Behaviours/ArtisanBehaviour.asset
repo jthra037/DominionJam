@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97806164cc0489a41b8ec076190aa937, type: 3}
+  m_Name: ArtisanBehaviour
+  m_EditorClassIdentifier: 
+  internals:
+  - {fileID: 11400000, guid: 0c0c1541019e3c74fad1e836da9462e6, type: 2}
+  - {fileID: 11400000, guid: b6d8146b757876d49806ff141e662b1c, type: 2}
