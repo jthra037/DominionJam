@@ -162,7 +162,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.nosleepsoftware.DominionJam
+    Android: com.nosleepsoftware.domion
     Standalone: com.nosleepsoftware.DominionJam
     iPhone: com.nosleepsoftware.DominionJam
   buildNumber: {}
