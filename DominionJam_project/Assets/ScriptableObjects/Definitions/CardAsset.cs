@@ -54,6 +54,10 @@ public class CardAsset : ScriptableObject
 	public int Cards => cards;
 
 	[SerializeField]
+	private int price;
+	public int Price => price;
+
+	[SerializeField]
 	private int victoryPoints;
 	public int VictoryPoints => victoryPoints;
 
