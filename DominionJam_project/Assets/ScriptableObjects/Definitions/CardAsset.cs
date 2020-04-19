@@ -41,6 +41,29 @@ public class CardAsset : ScriptableObject
 		Zombie = 1073741824,
 	}
 
+	public enum CardSets
+	{
+		DarkAges,
+		Renaissance,
+		Empires,
+		Base1E,
+		Guilds,
+		Alchemy,
+		Adventures,
+		Seaside,
+		Menagerie,
+		Base2E,
+		Promo,
+		Nocturne,
+		Cornucopia,
+		Prosperity,
+		Intrigue,
+		Hinterlands,
+		Base,
+		Intrigue1E,
+		Intrigue2E,
+	}
+
 	[SerializeField]
 	private string name;
 	public string Name => name;
@@ -68,6 +91,10 @@ public class CardAsset : ScriptableObject
 	[SerializeField]
 	private CardTypes types;
 	public CardTypes Types => types;
+
+	[SerializeField]
+	private CardSets set;
+	public CardSets Sets => set;
 
 	[SerializeField]
 	private Sprite cardFront;
